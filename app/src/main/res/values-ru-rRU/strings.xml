@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Текст локали</string>
+    <string name="action_help">Помощь</string>
+    <string name="action_language">Язык</string>
+    <string name="description">"Нуга — это семейство кондитерских изделий, приготовленных из сахара или меда, жареных орехов (обычны миндаль, грецкие орехи, фисташки, фундук и орехи макадамия), взбитых яичных белков и иногда нарезанных цукатов. Он используется в различных шоколадных батончиках и шоколадных батончиках. "</string>
+    <string name="nougat">Пакет конфет «Нуга»</string>
+    <string name="help_text">"Если вам нужна помощь, обратитесь в нашу службу поддержки. "</string>
+    <string name="dial_log_message">"Не удается разрешить приложение для намерения ACTION_DIAL. "</string>
+    <string name="expired_label">"Дата истечения срока: "</string>
+    <string name="price_item">Поштучная цена :</string>
+    <string name="count">Считать</string>
+    <string name="price_100pax">Цена за 100 человек:</string>
+</resources>
